@@ -12,10 +12,7 @@ A simple python program that runs on the terminal.The app,store user's account c
 
 ## Requirements
 This program requires python 3+(and pip) installed,a guide on how to install python on various platforms can be found here:[https://realpython.com/installing-python/]
-Once python is installled,install the following external libraries using pip:
-+ pip3 ibstall pyperclip
-+ pip3 install termcolor
-+ pip3 install unittest
+
 
 ## Installation and Set-up
 To use the application first make sure you have installed the required modules from above as well python 3+ installed in your computer.Here is a run through of how to run the application:
