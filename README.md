@@ -33,4 +33,5 @@ None at the moment
 ## Support and contact details
 You can contact me via email:Stephenremmi@gmail.com
 
-## [License]()
+## [License](https://github.com/Stephenremmi/Lockpass/blob/master/LICENSE)
+MIT license Copyright(c) 2020 **Stephen Remmi**
