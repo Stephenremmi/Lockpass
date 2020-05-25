@@ -24,7 +24,7 @@ To use the application first make sure you have installed the required modules f
 + Step 3:Open the terminal,go to the project directory and run the following commands:chmod +x run.py and python3.6 run.py respectively to launch the program.
 
 ## Known bugs
-
+None at the moment
 ### Built with
 + Python
 + Unittest
