@@ -34,5 +34,6 @@ None at the moment
 + To use pyper clip module
 
 ## Support and contact details
+You can contact me via email:Stephenremmi@gmail.com
 
 
