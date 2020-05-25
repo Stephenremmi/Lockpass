@@ -22,3 +22,9 @@ To use the application first make sure you have installed the required modules f
 + Step 1: Clone this repository using git clone or download the ZIP file of the code
 + Step 2:The repository, if downloaded as a zip file will need to be extracted to your preffered location and opened.
 + Step 3:Open the terminal,go to the project directory and run the following commands:chmod +x run.py and python3.6 run.py respectively to launch the program.
+
+## Known bugs
+
+### Built with
++ Python
++ Unittest
