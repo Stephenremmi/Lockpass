@@ -18,4 +18,5 @@ Once python is installled,install the following external libraries using pip:
 + pip3 install unittest
 
 ## Installation and Set-up
+To use the application first make sure you have installed the required modules from above as well python 3+ installed in your computer.Here is a run through of how to run the application:
 
