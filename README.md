@@ -9,3 +9,6 @@ A simple python program that runs on the terminal.The app,store user's account c
 ## Features
 + Behaviour Driven Development
 + Test Driven Development
+
+## Requirements
+
