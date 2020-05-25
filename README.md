@@ -31,7 +31,7 @@ None at the moment
 + To use pyper clip module
 
 ## Support and contact details
-You can contact me via email:Stephenremmi@gmail.com
+You can contact me via email:Stephenremmi@gmail.com.Your feedback is highly appreciated.
 
 ## [License](https://github.com/Stephenremmi/Lockpass/blob/master/LICENSE)
 MIT license Copyright(c) 2020 **Stephen Remmi**
